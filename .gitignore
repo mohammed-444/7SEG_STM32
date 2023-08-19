@@ -1,0 +1,8 @@
+.settings/
+CMSIS/
+startup/
+*.ld
+.project
+.cproject
+*.pdsbak
+*.workspace
